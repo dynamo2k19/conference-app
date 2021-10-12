@@ -1,6 +1,6 @@
 # conference-app
 
-Here will be some information about the app.
+Using Lightning Web Components Open Source to create a sample conference management application
 
 ## How to start?
 
